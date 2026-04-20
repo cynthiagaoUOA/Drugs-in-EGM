@@ -159,3 +159,5 @@ drugsinEGM1plotdata %>%
                sampleid = c(29, 27,28)) %>% 
   vascr_summarise(level = "experiment") %>% vascr_plot_line() + ylim(0.3,1.1)
 
+
+
